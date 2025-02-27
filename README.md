@@ -13,7 +13,8 @@ The course focuses on understanding digital and analog communication principles 
 ✔ **Lab 2**: Parity Bit Calculation and Verification  
 ✔ **Lab 3**: Correlation and Autocorrelation Analysis of Continuous-Time Signals  
 ✔ **Lab 4**: Simulating BPSK Transmission and BER in an AWGN Channel  
-✔ **Lab 5**: Fourier Transform of an Energy Signal
+✔ **Lab 5**: Fourier Transform of an Energy Signal  
+✔ **Lab 6**: Synchronous Detection of DSB-SC Signals
 
 ---
 pip install -r requirements.txt
