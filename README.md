@@ -14,8 +14,8 @@ The course focuses on understanding digital and analog communication principles 
 ✔ **Lab 3**: Correlation and Autocorrelation Analysis of Continuous-Time Signals  
 ✔ **Lab 4**: Simulating BPSK Transmission and BER in an AWGN Channel  
 ✔ **Lab 5**: Fourier Transform of an Energy Signal  
-✔ **Lab 6**: Synchronous Detection of DSB-SC Signals
-✔ **Lab 7**: USB & LSB SSB Modulation
+✔ **Lab 6**: Synchronous Detection of DSB-SC Signals  
+✔ **Lab 7**: USB & LSB SSB Modulation  
 ✔ **Lab 8**: Frequency Modulation Analysis
 
 ---
